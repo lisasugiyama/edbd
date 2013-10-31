@@ -15,3 +15,7 @@ $ git add README
 
 $ git commit -m 'first commit'
 
+$ git remote add origin https://github.com/lisaweb/edbd.git
+
+$ git push origin master
+
